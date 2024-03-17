@@ -1,8 +1,0 @@
- jay
- Gross Amount: ..........$        2000.00
- Federal Tax: ...........$         300.00
- State Tax: .............$          70.00
- Social Security: .......$         115.00
- Pension: ...............$         100.00
- Health Insurance: ......$          75.00
- Net Pay: ...............$        1340.00
